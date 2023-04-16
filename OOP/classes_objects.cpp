@@ -10,6 +10,7 @@ class YouTubeChannel{
         std::list<std::string> PublishedVideoTitles;
 };
 
+
 int main(){
     YouTubeChannel ytChannel; 
     ytChannel.Name = "C++.channel";
